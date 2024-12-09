@@ -1,0 +1,9 @@
+0 n1
+1 n2
+2 n3
+3 n4
+4 n5 
+5 n0
+6 mult
+7 egale
+8 rien
